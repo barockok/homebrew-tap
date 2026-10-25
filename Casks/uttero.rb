@@ -1,6 +1,6 @@
 cask "uttero" do
-  version "0.1.11"
-  sha256 "304de6c3343c57d9b85fb3ff3debd94f6cff165dd41d0415646b060da36d301d"
+  version "0.1.12"
+  sha256 "5adcb2da75fe24c666c3d17ef628645c9fbbdf9514e3ccd51c11995201b2b103"
 
   url "https://github.com/barockok/uttero/raw/main/uttero-#{version}.dmg"
   name "uttero"
